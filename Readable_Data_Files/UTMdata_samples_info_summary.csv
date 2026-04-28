@@ -1,0 +1,4 @@
+﻿Sample,Full Name,Sample Color,Plot Color,Filament Type,% Infill,Infill Pattern,Strain Rate (mm/min),Thickness (mm),Width (mm),Length Between Grips (mm),Length of Entire Sample (mm),Density (g/cm3)
+PLA,Poly(lactic acid),red,#d1482e,Esun PLA,100,rectilinear,20,3,13,100,169,1.27
+PETG,Polyethylene terephthalate glycol,blue,#522bd4,Generic PETG,100,rectilinear,20,3,13,100,169,1.24
+TPU,Thermoplastic polyurethane,yellow,#d9b313,SainSmart TPU,100,rectilinear,20,3,13,100,169,1.20
